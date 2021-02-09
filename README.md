@@ -5,3 +5,5 @@ about their exam performance and their application submission. In the "db_querie
 ER Diagram:
 ![Screenshot](er.png)
 
+Conceptual Diagram:
+![Screenshot](concep.png)
